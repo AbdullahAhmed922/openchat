@@ -13,6 +13,10 @@ Chat with powerful AI models running **entirely on your machine** — no API key
 
 [Getting Started](#-getting-started) · [Features](#-features) · [Usage](#-usage) · [Troubleshooting](#-troubleshooting)
 
+<br/>
+
+<img src="assets/screenshot.png" alt="OpenChat Streamlit Interface" width="850"/>
+
 </div>
 
 ---
@@ -166,6 +170,8 @@ You: exit
 
 ```
 openchat/
+├── assets/
+│   └── screenshot.png    # Web UI screenshot
 ├── app.py                # Streamlit web UI application
 ├── main.py               # CLI chatbot interface
 ├── src/
